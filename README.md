@@ -85,6 +85,7 @@ Surveillance environnementale temps réel avec visualisation des données.
 
 - **Français** : Langue maternelle  
 - **Anglais** : Niveau A2 *(en cours de perfectionnement)*
+- - **Vietnamien** : Notions de base 
 
 ---
 
