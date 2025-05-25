@@ -15,9 +15,14 @@ Je suis passionné par le **Traitement Automatique du Langage Naturel (TALN)**, 
 
 ## 🎓 Formation
 
-- **Master Informatique – Systèmes Intelligents et Multimédia**  
-  Université Nationale du Vietnam (Hanoi) & Université de La Rochelle (France)  
-  *Janvier 2024 – Octobre 2025*
+- **Master Informatique – Systèmes Intelligents et Multimédia**
+    - Master 2 : Ingénierie des Contenus Numeriques en Entreprise 
+      Université de La Rochelle (France)  
+      *Janvier 2024 – Octobre 2024*
+      
+    - Master 1 : Technologie de l'Information  
+      Université Nationale du Vietnam (Hanoi)
+      *Novemvre 2024 – Avril 2025*
 
 - **Licence en Informatique**  
   Université de Kinshasa, RD Congo  
