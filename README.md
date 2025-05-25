@@ -87,8 +87,8 @@ Surveillance environnementale temps réel avec visualisation des données.
 
 - Localisation : Hanoi, Vietnam
 - 📧 Email : charlymasobele@gmail.com
-- 🔗 GitHub: GitHub Profile (https://github.com/foxsudo/)
-- 💼 LinkedIn: LinkedIn Profile (https://www.linkedin.com/in/charlymasobele/)
+- 🔗 GitHub: [GitHub Profile](https://github.com/foxsudo/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/charlymasobele/)
 
 ---
 
