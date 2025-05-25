@@ -1,4 +1,4 @@
-## Data Scientist, AI/ML Engineer & Researcher 👋
+## Data Scientist, AI/ML Engineer & Researcher 
 
 <!--
 **foxsudo/foxsudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
