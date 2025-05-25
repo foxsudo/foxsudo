@@ -21,7 +21,7 @@ Je suis passionné par le **Traitement Automatique du Langage Naturel (TALN)**, 
       *Janvier 2024 – Octobre 2024*
       
     - Master 1 : Technologie de l'Information  
-      Université Nationale du Vietnam (Hanoi)
+      Université Nationale du Vietnam (Hanoi),
       *Novemvre 2024 – Avril 2025*
 
 - **Licence en Informatique**  
