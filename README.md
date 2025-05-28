@@ -2,7 +2,7 @@
 
 ## 👋 Bonjour, je suis Charly Masobele
 
-je suis un data scientist et ingénieur IA/ML passionné, spécialisé en vision par ordinateur, apprentissage automatique et technologies décentralisées. Mon parcours universitaire m'a permis d'acquérir des compétences pointues en systèmes intelligents et multimédia. Je poursuis actuellement un master en informatique, spécialisé en systèmes intelligents et multimédia.
+je suis un data scientist et ingénieur IA/ML passionné, spécialisé en vision par ordinateur, apprentissage automatique et technologies décentralisées (Blockchain). Mon parcours universitaire m'a permis d'acquérir des compétences pointues en systèmes intelligents et multimédia. Je poursuis actuellement un master en informatique, spécialisé en systèmes intelligents et multimédia.
 
 ---
 <!--
